@@ -20,3 +20,11 @@ Route::get('/', function () {
 Route::get('/public/index', function (){
     return view('/public.index');
 });
+
+Route::get('/public/login', function (){
+    return view('login');
+});
+
+Route::get('/public/register', function (){
+    return view('register');
+});
