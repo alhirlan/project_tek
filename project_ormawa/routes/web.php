@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/public/index', function (){
     return view('/public.index');
 });
+
+Route::get('/contact', 'Contact@showContactForm');
+
+Route::post('/contact', 'Contact@sendMail');
