@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T16:03:53.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="jEbzMOhXi4toFz_IdFXJ" version="15.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T16:08:31.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Tshj_9KDgd7rouppfCet" version="15.6.3" type="github">
   <diagram id="gBXhfipr_F9A9CVoT3uk" name="Page-1">
     <mxGraphModel dx="1021" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -100,22 +100,22 @@
           <mxGeometry x="285" y="1530" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-39" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1245" width="100" height="50" as="geometry" />
+          <mxGeometry x="460" y="1290" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-40" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="1535" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-41" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="1250" width="100" height="50" as="geometry" />
+          <mxGeometry x="555" y="1295" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-42" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="1210" width="100" height="50" as="geometry" />
+          <mxGeometry x="515" y="1255" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-43" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="1545" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-44" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="1180" width="100" height="50" as="geometry" />
+          <mxGeometry x="635" y="1225" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-45" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225" y="1605" width="100" height="50" as="geometry" />
@@ -133,7 +133,7 @@
           <mxGeometry x="535" y="1625" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-50" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="1250" width="100" height="50" as="geometry" />
+          <mxGeometry x="485" y="1295" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-51" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="1565" width="100" height="50" as="geometry" />
@@ -141,29 +141,29 @@
         <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-52" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="1635" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-53" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="1250" width="100" height="50" as="geometry" />
+        <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-53" value="Dapat Check Proposal dan Memberikan Status" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1250" width="115" height="75" as="geometry" />
         </mxCell>
         <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-54" value="Mendapatkan Jadwal Kegiatan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="1060" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-55" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1265" width="100" height="50" as="geometry" />
+          <mxGeometry x="580" y="1420" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-56" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="465" y="1200" width="100" height="50" as="geometry" />
+          <mxGeometry x="565" y="1245" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-57" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="465" y="1270" width="100" height="50" as="geometry" />
+          <mxGeometry x="565" y="1315" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-58" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="1230" width="100" height="50" as="geometry" />
+          <mxGeometry x="525" y="1275" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-59" value="Melihat Surat Udangan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="1000" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-60" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="1280" width="100" height="50" as="geometry" />
+        <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-60" value="Melihat Kegiatan ORMAWA Pembina" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1190" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-63" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kbuJ7gR1YjFYB8_hmozP-4" target="kqd4QxHq-8T0MdLZ1BCQ-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -332,6 +332,12 @@
             <mxPoint x="270" y="950" as="sourcePoint" />
             <mxPoint x="390" y="960" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-99" value="Mendapatkan Jadwal Kegiatan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1330" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kqd4QxHq-8T0MdLZ1BCQ-100" value="Melihat Surat Udangan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1270" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
